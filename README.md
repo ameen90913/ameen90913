@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameen90913&label=Profile%20views&color=0e75b6&style=flat" alt="ameen90913" /> </p>
 
-- 🔭 I’m currently working on **Bionic Arm**
+- 🔭 I’m currently working on **OptiBlink**
 
-- 🌱 I’m currently learning **React, Micropython**
+- 🌱 I’m currently learning **OpenCV, PyTorch**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ameenmj2@gmail.com**
+- 📫 How to reach me: **ameenmj2@gmail.com**
 
 - ⚡ Fun fact about me **I touch grass ✌🏻**
 
